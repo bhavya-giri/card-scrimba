@@ -8,7 +8,7 @@ const Bottom = () => {
       <h3>Frontend Developer</h3>
       <h5>laurasmith.website</h5>
       <button>
-        <img src=''/>
+        <img src={email}/>
       </button>
     </div>
   )
