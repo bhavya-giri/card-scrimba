@@ -9,7 +9,10 @@ const Bottom = () => {
       <h5>laurasmith.website</h5>
       <button>
         <img src={email}/>
+          <p>Email</p>
       </button>
+      <h2>About</h2>
+      
     </div>
   )
 }
