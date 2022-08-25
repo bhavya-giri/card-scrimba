@@ -2,8 +2,37 @@
   width: 550px;
 height: 868px;
 background: #23252C;
+display:flex;
+flex-direction:column;
+justify-content: center;
+align-items:center;
+margin:0;
+gap:0px;
+}
+.top{
+  margin:0;
+  padding:0;
 }
 .pic{
   margin-top:44px;
-  margin-left:116px;
+  margin-bottom:0;
+  padding:0;
+ 
+}
+
+.Bottom{
+  width:317px;
+  height:399px;
+  background: #1A1B21;
+  margin-top:0;
+}
+h1{
+  margin-top:0;
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+text-align: center;
+color: #FFFFFF;
 }
